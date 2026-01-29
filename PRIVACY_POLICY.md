@@ -60,15 +60,11 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-- **Email**: [Your Email Address]
-- **App Store**: Card Trader Value Calculator
+- **Email**: malicedumpling@gmail.com
 
 ## Compliance
 
-This app complies with:
-- Apple App Store Review Guidelines
-- Applicable privacy laws and regulations
-- General Data Protection Regulation (GDPR) where applicable
+This app follows applicable privacy laws and regulations.
 
 ## Third-Party Services
 
